@@ -1,0 +1,45 @@
+_repo: Amadis-of-Gaul-Vol-4-of-4_55005
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Rodríguez de Montalvo, Garci
+    aliases:
+    - Montalvo, Garcia Ordonez de
+    - Ordoñez de Montalvo, García
+    - Montalvo, Garci Rodríguez de
+    - De Montalvo, Garci Rodríguez
+    - Rodriguez de Montalvo, Garci
+    - Montalvo, García Ordoñez de
+    gutenberg_agent_id: '46235'
+    url: http://www.gutenberg.org/2009/agents/46235
+  translator:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+creator:
+  author:
+    agent_name: Lobeira, Vasco de
+    alias: De Lobeira, Vasco
+    deathdate: 1403
+    gutenberg_agent_id: '46241'
+    url: http://www.gutenberg.org/2009/agents/46241
+description: ''
+gutenberg_issued: '2017-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Romances, Spanish -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Chivalry -- Fiction'
+- GITenberg
+title: Amadis of Gaul, Vol. 4 of 4.
+url: http://www.gutenberg.org/ebooks/55005
