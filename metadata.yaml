@@ -1,5 +1,5 @@
 _repo: Amadis-of-Gaul-Vol-4-of-4_55005
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Rodríguez de Montalvo, Garci
@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '488'
     url: http://www.gutenberg.org/2009/agents/488
     wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+covers:
+- cover_type: archival
+  image_path: 55005-h/images/cover.jpg
 creator:
   author:
     agent_name: Lobeira, Vasco de
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '46241'
     url: http://www.gutenberg.org/2009/agents/46241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55005#Amadis-of-Gaul-Vol-4-of-4
 gutenberg_issued: '2017-06-29'
 gutenberg_type: Text
 identifiers:
